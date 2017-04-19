@@ -5,4 +5,6 @@ From homepage I can download the latest version of [Python](https://www.python.o
 There is already IDLE existing in Python 3.6.1, it can be used to edit. After installing the environment needn't to be set any more. 
 Simply to say it can be used directly.
 
-But I want to use it in Eclipse.
+I want to use it in [Eclipse](http://www.eclipse.org/), download and install it. Python IDE for Eclipse "PyDev" is a plugin that enables
+Eclipse to be used. It can be found in Eclipse Marketplace.
+
