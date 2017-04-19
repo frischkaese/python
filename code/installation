@@ -8,3 +8,4 @@ Simply to say it can be used directly.
 I want to use it in [Eclipse](http://www.eclipse.org/), download and install it. Python IDE for Eclipse "PyDev" is a plugin that enables
 Eclipse to be used. It can be found in Eclipse Marketplace.
 
+In Eclipse menu "window" -> "preference" to config python interpreters. Auto-config is simply and successfully used for me.
