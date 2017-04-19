@@ -3,4 +3,4 @@
 
 ### Installation
 
-* [Installation]()
+* [Installation](https://github.com/frischkaese/python/blob/master/code/installation)
