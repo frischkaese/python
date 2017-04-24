@@ -4,3 +4,5 @@ From 3 years ago I found that when a person with Python programming skill is eas
 ### Installation
 
 * [Installation](https://github.com/frischkaese/python/blob/master/code/installation)
+
+* [Connection with MySQL]()
