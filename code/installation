@@ -9,3 +9,5 @@ I want to use it in [Eclipse](http://www.eclipse.org/), download and install it.
 Eclipse to be used. It can be found in Eclipse Marketplace.
 
 In Eclipse menu "window" -> "preference" to config python interpreters. Auto-config is simply and successfully used for me.
+
+After that I can start Python with Program "Hello World!" in Eclipse.
