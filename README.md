@@ -5,4 +5,4 @@ From 3 years ago I found that when a person with Python programming skill is eas
 
 * [Installation](https://github.com/frischkaese/python/blob/master/code/installation)
 
-* [Connection with MySQL]()
+* [Connection with MySQL](https://github.com/frischkaese/python/blob/master/code/connection)
