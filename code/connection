@@ -6,4 +6,4 @@ I tried to find the solution for installation, but failed. And I uninstalled Pyt
 After Python 2.7 installation I must set HOMEPATH in "Evironment Parameter Setting".
 
 I installed MySQL interface for Python and in Eclipse I must apply the "MySQLdb" with menu Window -> Preferences -> PyDev -> Python Interpreters.
-Later in "Python Interpreters" -> "Forced Builtins" I can find MySQLdb, it means that the interface has been setup sucessfully.
+Later in "Python Interpreters" -> "Forced Builtins" I can find MySQLdb, it means that the interface has been set sucessfully.
