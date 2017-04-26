@@ -1,4 +1,8 @@
 Connection with MySQL
 
 In package index of Python I can find the download link for Python interface to MySQL, but the interface just support the Python version 2.7.
+I tried to find the solution for installation, but failed. And I uninstalled Python version 3.6 and reinstalled version 2.7.
 
+After Python 2.7 installation I must set HOMEPATH in "Evironment Parameter Setting".
+
+I installed MySQL interface for Python and 
